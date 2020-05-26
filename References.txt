@@ -1,0 +1,8 @@
+References
+
+https://www.learnopencv.com/find-center-of-blob-centroid-using-opencv-cpp-python/
+https://medium.com/@harshilp/playing-chromes-dinosaur-game-using-opencv-19b3cf9c3636
+http://sa-cybernetics.github.io/blog/2013/08/12/hand-tracking-and-recognition-with-opencv/
+https://www.renesas.com/us/en/products/gadget-renesas/boards/gr-lychee/lychee-project-opencv-contour-detection.html
+https://github.com/BlueDi/Hand-Detection/wiki/App
+https://www.codementor.io/@powderblock/how-to-do-facial-recognition-and-overlay-superimpose-image-assets-python2-opencv-png-with-alpha-channel-transparency-zeqf7rjh0
